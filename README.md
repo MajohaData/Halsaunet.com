@@ -1,2 +1,2 @@
-# Halsaunet.no
+# Halsaunet.com
 Portfolio page
